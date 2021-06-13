@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejadro</h1>
+<h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate fullstack developer from Los Angeles</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexm323&show_icons=true&locale=en&layout=compact" alt="alexm323" /></p>
