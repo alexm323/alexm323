@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejadro</h1>
 <h3 align="center">A passionate fullstack developer from Los Angeles</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexm323" alt="alexm323" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/devwentdowntoca" target="blank"><img src="https://img.shields.io/twitter/follow/devwentdowntoca?logo=twitter&style=for-the-badge" alt="devwentdowntoca" /></a> </p>
 
 - 🔭 I’m currently working on [Barkeep, a react-native cocktail and drink organizer based on your existing ingredients.](https://github.com/alexm323/barkeep)
