@@ -2,6 +2,10 @@
 <img src="https://i.ibb.co/0ZNpGcH/github-banner.png" align="center" style="width: 100%" />
 </div>  
   
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexm323&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br>
 
 ### <div align="center">I'm Alejandro, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
@@ -86,8 +90,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexm323&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
   
